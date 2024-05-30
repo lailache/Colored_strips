@@ -30,3 +30,8 @@ python game/main.py
 
 ```bash
 pygbag --build game
+```
+
+### link to a web project page
+
+https://lailache.github.io/Colored_strips/game/web/index.html
