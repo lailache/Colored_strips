@@ -2,6 +2,10 @@
 
 Just multicolored strips filling the screen. SPACE to change colors, ESC to quit.
 
+### link to a web project page
+
+https://lailache.github.io/Colored_strips/game/web/index.html
+
 ### deploy virtual environment
 
 ```bash
@@ -31,7 +35,3 @@ python game/main.py
 ```bash
 pygbag --build game
 ```
-
-### link to a web project page
-
-https://lailache.github.io/Colored_strips/game/web/index.html
