@@ -1,6 +1,6 @@
-# Simple game created with PYGAME and PYGBAG libraries
+# Interactive Color Stripes Display using Pygame and Pygamebg
 
-Just multicolored strips filling the screen. SPACE to change colors, ESC to quit.
+SPACE to change colors, ESC to quit.
 
 ### link to a web project page
 
